@@ -21,6 +21,4 @@ You can see an online version of this sample [here](http://azjobsdemo.azurewebsi
 
 ![Demo Screen Shot](https://raw.githubusercontent.com/Azure-Samples/search-dotnet-asp-net-mvc-jobs/master/azure_search_jobs_demo.png?token=ADRiDX3CZ28iz93_t27YIkSQ5KUvAkVCks5WDA2pwA%3D%3D)
 
----
-
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
