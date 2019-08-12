@@ -6,6 +6,7 @@ products:
 - azure
 - azure-search
 name: NYC Jobs demo - Azure Search .NET
+description: "Demonstrates a complete Azure Search application, including a rich user experience, data loading and indexing, geospatial filtering, typeahead queries, and more."
 urlFragment: azure-search-nycjobs
 services: search
 platforms: dotnet
