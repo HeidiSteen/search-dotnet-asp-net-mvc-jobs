@@ -1,6 +1,8 @@
 ---
 page_type: sample
 languages:
+- javascript
+- html
 - csharp
 products:
 - azure
